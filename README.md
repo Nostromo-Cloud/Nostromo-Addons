@@ -1,3 +1,5 @@
+![Banner](/banner.png)
+
 ## If you want to register your addons, it's easy.
 
 * **(1)** Create an issue with a direct link from your addons
